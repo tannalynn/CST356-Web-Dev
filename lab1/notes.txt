@@ -15,3 +15,4 @@ The home controller does. The contact action is what creates it. The controller 
 Ex 3:
 It blows up when you have no view. 
 
+   
