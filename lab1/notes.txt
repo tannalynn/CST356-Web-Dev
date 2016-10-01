@@ -1,0 +1,17 @@
+Ex 1:
+Homecontroller About()
+It is going to the home controller and looking for the about action and doing that thing.
+
+***************************************************************
+Ex 2:
+The home controller does. The contact action is what creates it. The controller adds the "Your contact page." to the page. Contact.cshtml is the view for it. In the views folder it has a Home folder, which contains all the views for the home controller. 
+@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+***************************************************************
+Ex 3:
+It blows up when you have no view. 
+
