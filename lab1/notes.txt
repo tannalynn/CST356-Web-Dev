@@ -8,7 +8,7 @@ The home controller does. The contact action is what creates it. The controller 
 @{
     ViewBag.Title = "Contact";
 }
-<h2>@ViewBag.Title.</h2>
+<h2>@ViewBag.Title.</h2>    
 <h3>@ViewBag.Message</h3>
 
 ***************************************************************
